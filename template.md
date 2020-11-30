@@ -22,4 +22,4 @@
 
 That's it!   I don't care how you get it done. I don't care that you refactor code you found. By now you have enough of knowledge to at least understand how the system in priciple works and if you want to truly challenge yourself try and do it all from scratch, or simply look for many examples out on the internet and adapt to your convenience. Remember I will grate this binarily, it either works or not. I want to hear you say in your video "Professor Sanchez, I have a mask, and now I don't have a mask".
 
-WHO IS UP FOR THE CHALLENGE?!?!?!?!?!
+***WHO IS UP FOR THE CHALLENGE?!?!?!?!?!***
